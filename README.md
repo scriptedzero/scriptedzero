@@ -2,8 +2,8 @@
 
 Hello! I`m Students that learning programming.
 
-               __
-    ..=====.. |==|
+\              __
+\    ..=====.. |==|
     ||     || |= |
  _  ||     || |^*| _
 |=| o=,===,=o |__||=|
