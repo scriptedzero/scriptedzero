@@ -1,5 +1,5 @@
 # scriptedzero
-@import "https://www.nerdfonts.com/assets/css/webfont.css"
+<link href="https://www.nerdfonts.com/assets/css/webfont.css">
 
 Hello! I am Students that learning programming from Korea.
 
